@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7DBCFC1C-AAC1-4DC4-B649-3BB78017A839"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2642B5C7-AA68-4D34-B1CE-A2F2F5C942E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalculatorProject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2642B5C7-AA68-4D34-B1CE-A2F2F5C942E2 - aa29201fa2c6e6ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculatorProject.ViewController.zero.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "CalculatorProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elnarak/Desktop/ios_spring_2020_02_lecture-master/CalculatorProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2642B5C7-AA68-4D34-B1CE-A2F2F5C942E2 - 561001e64fd0d619"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculatorProject.ViewController.zero.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "CalculatorProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elnarak/Desktop/ios_spring_2020_02_lecture-master/CalculatorProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "2642B5C7-AA68-4D34-B1CE-A2F2F5C942E2 - 9c6b3c9d4fce52e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculatorProject.ViewController.zero.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "CalculatorProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elnarak/Desktop/ios_spring_2020_02_lecture-master/CalculatorProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "2642B5C7-AA68-4D34-B1CE-A2F2F5C942E2 - 43f3c1d1620e9147"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculatorProject.ViewController.zero.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CalculatorProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elnarak/Desktop/ios_spring_2020_02_lecture-master/CalculatorProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "2642B5C7-AA68-4D34-B1CE-A2F2F5C942E2 - 81cb5c754c7a2c15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculatorProject.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CalculatorProject.ViewController"
+                  moduleName = "CalculatorProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elnarak/Desktop/ios_spring_2020_02_lecture-master/CalculatorProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "2642B5C7-AA68-4D34-B1CE-A2F2F5C942E2 - be7b94c9281da1f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalculatorProject.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CalculatorProject.ViewController&gt;"
+                  moduleName = "CalculatorProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elnarak/Desktop/ios_spring_2020_02_lecture-master/CalculatorProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "257">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
